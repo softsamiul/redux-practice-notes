@@ -13,4 +13,6 @@
     5. Uses of multiple reducers using comineReducers()
     6. applyMiddlewaare()
     7. redux_logger middleware
-    8.
+    8. uses of redux-thunk middlewaye
+    9. fetching data using redux-thunk from API
+    10. 
